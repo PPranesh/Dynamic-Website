@@ -9,9 +9,9 @@
   "author": "PPranesh",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.5",
     "ejs": "^3.1.10",
-    "express": "^4.17.3",
+    "express": "^4.22.2",
     "lodash": "^4.17.23"
   }
 }
